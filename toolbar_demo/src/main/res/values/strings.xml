@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="card_string">使用CollapsingToolbarLayout实现折叠效果，需要注意3点:\n1. AppBarLayout的高度固定\n2. CollapsingToolbarLayout的子视图设置layout_collapseMode属性\n3. 关联悬浮视图设置app:layout_anchor，app:layout_anchorGravity属性</string>
+</resources>
