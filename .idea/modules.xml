@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidApiDemo.iml" filepath="$PROJECT_DIR$/AndroidApiDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/toolbar_demo/toolbar_demo.iml" filepath="$PROJECT_DIR$/toolbar_demo/toolbar_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpager/viewpager.iml" filepath="$PROJECT_DIR$/viewpager/viewpager.iml" />
     </modules>
   </component>
 </project>
