@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidApiDemo.iml" filepath="$PROJECT_DIR$/AndroidApiDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animator/animator.iml" filepath="$PROJECT_DIR$/animator/animator.iml" />
       <module fileurl="file://$PROJECT_DIR$/toolbar_demo/toolbar_demo.iml" filepath="$PROJECT_DIR$/toolbar_demo/toolbar_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/viewpager/viewpager.iml" filepath="$PROJECT_DIR$/viewpager/viewpager.iml" />
     </modules>

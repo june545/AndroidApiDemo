@@ -1,1 +1,1 @@
-include ':toolbar_demo', ':viewpager'
+include ':toolbar_demo', ':viewpager', ':animator'
